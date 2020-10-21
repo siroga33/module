@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afa63c69-1737-4405-a61e-642096e23684" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/admin/model/extension/module/payments.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/model/extension/module/payments.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hlXYqkQFjU0jf6Km1MWwzf6PLc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin/view/template/extension/module" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Install\OSPanel\domains\functions\admin\view\template\extension\module" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afa63c69-1737-4405-a61e-642096e23684" name="Default Changelist" comment="" />
+      <created>1600586705034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600586705034</updated>
+      <workItem from="1600586707111" duration="11068000" />
+      <workItem from="1600666064919" duration="17078000" />
+      <workItem from="1600752908140" duration="4875000" />
+      <workItem from="1600762227766" duration="6839000" />
+      <workItem from="1600841455637" duration="2839000" />
+      <workItem from="1600844733703" duration="13202000" />
+      <workItem from="1600926371604" duration="5084000" />
+      <workItem from="1600933911330" duration="7331000" />
+      <workItem from="1601011663053" duration="8385000" />
+      <workItem from="1601026918130" duration="2155000" />
+      <workItem from="1601643293672" duration="2210000" />
+      <workItem from="1602574516133" duration="7706000" />
+      <workItem from="1602587059692" duration="5025000" />
+      <workItem from="1602664914928" duration="6892000" />
+      <workItem from="1602847385998" duration="1691000" />
+      <workItem from="1603107242467" duration="4900000" />
+      <workItem from="1603174701393" duration="254000" />
+      <workItem from="1603175328094" duration="680000" />
+      <workItem from="1603176347643" duration="987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="312" key="#Web_Browsers" timestamp="1600590155561">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="441" y="312" key="#Web_Browsers/0.0.1280.984@0.0.1280.984" timestamp="1600590155561" />
+    <state x="236" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600590136542">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="236" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1600590136542" />
+    <state x="420" y="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602847919005">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="388" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1602847919005" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1600590140693">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1280.984@0.0.1280.984" timestamp="1600590140693" />
+    <state x="480" y="510" key="NewPhpFileDialog" timestamp="1602847851151">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="480" y="510" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1602847851151" />
+    <state x="63" y="101" key="SettingsEditor" timestamp="1600589683867">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="63" y="101" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1600589683867" />
+    <state x="297" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1601025156996">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="297" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1601025156996" />
+  </component>
+</project>
